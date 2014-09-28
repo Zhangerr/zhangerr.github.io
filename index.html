@@ -1,1 +1,179 @@
-hi~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Optional theme -->
+<!--   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"> -->
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <!-- Latest compiled and minified JavaScript -->
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+      background-color:#a6a6a6;
+    }
+    .nav {
+      padding-left:20px;
+    }
+    .main,.info,.moreinfo{
+      padding-top:100px;
+      padding-bottom:100px;
+      color:rgb(0, 0, 77);
+    }
+    .main {
+      background-color:#3a56ad;
+    }
+    .info {
+      background-color: #2e4385;
+      color: rgb(142, 163, 229) 
+    }
+    .moreinfo {
+      background-color: rgb(34, 48, 95);
+      color: rgb(130, 144, 191)
+    }
+    .nav {
+      background-color: rgb(166, 166, 166);
+      color: rgb(70, 70, 70)
+    }
+    .nav ul {
+      list-style:none;
+      padding:0;
+    }
+    .nav ul li {
+      float:left;
+      padding:10px;
+      padding-left:40px;
+      padding-right:40px;
+      font-size:2em;
+      cursor:pointer;
+      transition:all 0.25s;
+    }
+    .nav ul li:first-child {
+      /*padding-left:2px;*/
+    }
+    .links {
+      padding-bottom:5px;
+    }
+    .nav-list div:hover {
+      background-color:rgb(34, 48, 95);
+      color: rgb(130, 144, 191)
+    }
+    .main h1 {
+        font-size:5em;
+    }
+    .nav-list {
+      text-align:center;
+      font-size:2em;
+
+    }
+    .nav-list div {
+      padding-top:10px;
+      padding-bottom:10px;
+      transition:all 0.25s;
+      cursor:pointer;
+    }
+    .link {
+      padding-top:10px;
+    }
+    .glyphicon {
+      font-size:.75em;
+      vertical-align: 2px;
+    }
+    a {
+      color:inherit;
+    }
+    a:hover {
+      color:inherit;
+      text-decoration: none;
+    }
+  </style>
+
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+    <div class="col-md-12 nav">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="row nav-list">
+            <a href="/">                     <div class="col-md-3"><span class="glyphicon glyphicon-home"></span> Home</div></a>
+            <a href="https://github.com/Zhangerr">    <div class="col-md-3"><span class="glyphicon glyphicon-folder-open"></span> &nbsp;Projects</div></a>
+            <a href="https://cloudup.com/c7J2R5h8FIK"><div class="col-md-3"><span class="glyphicon glyphicon-file"></span> Resume </div></a> 
+            <a href="mailto:myname@berkeley">         <div class="col-md-3"><span class="glyphicon glyphicon-envelope"></span>    Contact</div></a>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="col-md-12 main">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1>Hello World!</h1>
+            <h2>This site is a WIP, but feel free to keep looking.</h2>
+            <h3>My name is Alex Zhang.</h3>
+            <p>I am an EECS major currently studying at UC Berkeley that's keenly interested in computer science, technology, and entrepreneurship.
+            </p>
+            <div class="row link">
+              <div class="col-md-3 links">
+                <a href="https://github.com/Zhangerr" class="btn btn-primary btn-block btn-lg btn-danger">Github</a>
+                </div>
+              <div class="col-md-3 links">
+               <a href="http://stackoverflow.com/users/938831/zhanger" class="btn btn-primary btn-block btn-lg btn-warning">Stackoverflow</a>
+              </div>
+              <div class="col-md-3 links">
+                <a href="https://www.linkedin.com/pub/alex-zhang/95/420/378" class="btn btn-primary btn-block btn-lg btn-info">Linkedin</a>
+              </div>
+              <div class="col-md-3 links">
+               <a href="https://cloudup.com/c7J2R5h8FIK"class="btn btn-primary btn-block btn-lg btn-success">Resume</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 info">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="row">
+              <div class="col-md-6">
+              <h2>What I like</h2>
+              <ul>
+                <li>Dota 2</li>
+                <li>reddit</li>
+                <li>Ping pong</li>
+                <li>Learning Chinese/Cantonese</li>
+                <li>Netflix</li>
+                <li>Anime</li>
+                <li>Unhealthy food</li>
+                <li>Sleep</li>
+              </ul>
+              </div>
+              <div class="col-md-6">
+              <h2>What I dislike</h2>
+              <ul>
+                <li>League of Legends</li>
+                <li>9gag</li>
+                <li>Physics</li>
+                <li>Lack of sleep</li>
+                <li>Healthy Food</li>
+              </ul></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 moreinfo">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h2>Contact me</h2>
+            myname [at] berkeley [dot] edu
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body>
+</html>
