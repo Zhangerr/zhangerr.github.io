@@ -1,0 +1,67 @@
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+.resume-content {
+
+    width:8.5in;
+    margin:auto;
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-bottom:0;
+        font-weight:bold;
+    }
+    h1 {
+        font-size:2em;
+    }
+    h2 {
+        font-size:1.4em;
+        margin-top:5px;
+    }
+    h3 {
+        margin-top:3px;
+    }
+    p {
+        margin-bottom:0px;
+    }
+    ul {
+        margin-left:20px;
+        margin-bottom:0;
+    }
+    .header {
+        text-align:center;
+    }
+    .center {
+        text-align:center;
+    }
+    hr {
+        margin-top:2px;
+        margin-bottom:0px;
+        border-color:black;
+        border-bottom-style: none;
+    }
+    .table {
+        width:100%;
+        tbody {
+            display:none;
+        }
+
+        th {
+            font-weight:normal;
+            padding:0;
+            
+        }
+        th:first-child {
+            
+            font-size:1.2em;
+            font-weight:bold;
+        }
+
+    }
+    .follow {
+        padding-left:3px;
+    }
+}
