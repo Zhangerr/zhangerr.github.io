@@ -1,7 +1,7 @@
 ---
 layout: resume-print
 title: Printable Resume
-permalink: /print-resume/
+permalink: print-resume/
 ---
 
 
