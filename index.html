@@ -72,9 +72,6 @@
       cursor:pointer;
       transition:all 0.25s;
     }
-    .nav ul li:first-child {
-      /*padding-left:2px;*/
-    }
     .links {
       padding-bottom:5px;
     }
@@ -243,8 +240,6 @@
   $(document).ready(function() {
     $("#bContact").click(function(e) {
         $(this).attr("href","mailto:firstname.lastname@berkeley.edu?subject="+encodeURIComponent($("#inputEmail3").val())+"&body="+encodeURIComponent($("#subject").val()))
-        // e.preventDefault();
-
     })
     $("#contact").click(function(e) {
       e.preventDefault();
