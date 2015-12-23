@@ -4,12 +4,12 @@ title: Printable Resume
 permalink: print-resume/
 ---
 
-
+{: .header .name}
 #Alex Zhang
-{: .center}
 
+{: .header}
 <alex.zhang@berkeley.edu> \| (949)-207-8108 \| <https://github.com/Zhangerr>
-{: .center}
+
 
 ------
 
@@ -25,36 +25,38 @@ To obtain an internship for Summer 2016 in either mobile or web development (pre
 
 **University of California, Berkeley**  
 Class of 2018 – 3.38 Technical GPA  
-B.S. in Electrical Engineering and Computer Science (EECS)  
+B.S. in Electrical Engineering and Computer Science (EECS)
 
 *Relevant Coursework*
 
 *  CS61A: The Structure and Interpretation of Computer Programs – A+ (top 5% of the class) 
 *  CS61B: Data Structures and Advanced Programming – A (top 15% of the class)
-*  CS70: Discrete Mathematics and Probability Theory – In progress
+*  CS70 : Discrete Mathematics and Probability Theory – In progress
 *  CS61C: Machine Structures – In progress
+*  CS188: Artificial Intelligence – In progress
+*  CS61C: Efficient Algorithms and Intractable Problems – In progress
 
 ##EMPLOYMENT
 
 ------
 
-| Kinoma    | Summer 2015 |
-| :-------- |   --------: |
-|           |             |
-{: .table}
+{: .date}
+Summer 2015
+
+###Kinoma (Marvell)
 
 Software Engineering Intern
-{: .follow}
+
 *  Interfaced Javascript with NFC readers, vehicle motors, and various sensors
 *  Translated an Arduino C library for an OLED display into optimized ES6 Javascript
 
-| Intel     | Summer 2014 |
-| :-------- |   --------: |
-|           |             |
-{: .table}
+{: .date}
+Summer 2014
+
+###Intel
 
 Software Testing Intern
-{: .follow}
+
 *  Developed the out of box experience for the Intel Edison, a credit card sized computer
 *  Compiled and improved documentation while collaborating with technical writers
 
@@ -62,7 +64,7 @@ Software Testing Intern
 
 ------
 
-*  Experienced with Java, Python, Javascript, HTML, CSS, C, C#, git, Ruby on Rails, Swift/iOS, SQL, terminal
+*  Experienced with Java, Python, Javascript, HTML, CSS, C, C#, git, Ruby on Rails, Swift/iOS, SQL, UNIX command line/terminal, MIPS, Latex
 
 ##PROJECTS
 
@@ -87,26 +89,28 @@ Software Testing Intern
 ###Scheme Interpreter
 *  Fully-fledged Scheme interpreter in Python; supports tail calls and dynamic scoping
 
+###Snapbook
+*  iOS app that used Parse to allowed users to post images/text with a set duration (that could be extended by other users' likes) before expiring
+
 ##ACTIVITIES
 
 ------
 
-| Computer Science Mentors     | Jan 2015-Present |
-| :-------- |   --------: |
-|           |             |
-{: .table}
+{: .date}
+Jan 2015 - Present
+
+###Computer Science Mentors
 
 Senior Mentor and Communications Executive
-{: .follow}
-*  Created worksheets and conducted one on five mentoring sessions with students weekly
 
-| Reader    | Aug 2015-Present |
-| :-------- |   --------: |
-|           |             |
-{: .table}
+*  Authored worksheets and conducted one on five mentoring sessions with students weekly
 
+{: .date}
+Aug - Dec 2015
+
+###Reader
 CS61A (Structure and Interpretation of Computer Programs) 
-{: .follow}
+
 *  Assisted in the grading of exams and projects
 *  Held additional review sessions and office hours for students 
 

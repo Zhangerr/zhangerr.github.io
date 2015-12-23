@@ -9,7 +9,7 @@ dl, dd, ol, ul, figure {
 
     width:8.5in;
     margin:auto;
-
+    font-family: "Georgia";
     h1, h2, h3, h4, h5, h6 {
         margin-bottom:0;
         font-weight:bold;
@@ -18,8 +18,9 @@ dl, dd, ol, ul, figure {
         font-size:2em;
     }
     h2 {
-        font-size:1.4em;
+        font-size:1.25em;
         margin-top:5px;
+        font-weight:bold;
     }
     h3 {
         margin-top:3px;
@@ -35,8 +36,8 @@ dl, dd, ol, ul, figure {
     .header {
         text-align:center;
     }
-    .center {
-        text-align:center;
+    .name {
+        font-family:"Avenir Next";
     }
     hr {
         margin-top:2px;
@@ -64,5 +65,8 @@ dl, dd, ol, ul, figure {
     }
     .follow {
         padding-left:3px;
+    }
+    .date {
+        float:right;
     }
 }
