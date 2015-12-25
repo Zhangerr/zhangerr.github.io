@@ -34,7 +34,7 @@ B.S. in Electrical Engineering and Computer Science (EECS)
 *  CS70 : Discrete Mathematics and Probability Theory – In progress
 *  CS61C: Machine Structures – In progress
 *  CS188: Artificial Intelligence – In progress
-*  CS61C: Efficient Algorithms and Intractable Problems – In progress
+*  CS170: Efficient Algorithms and Intractable Problems – In progress
 
 ##EMPLOYMENT
 

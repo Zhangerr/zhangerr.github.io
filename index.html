@@ -1,25 +1,101 @@
 ---
-layout: default
+layout: home
 ---
 
-<div class="home">
+<div class="container-fluid">
+    <div class="row">
+    <div class="col-md-12 nav">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="row nav-list">
+            <a href="/">                     <div class="col-md-3"><span class="glyphicon glyphicon-home"></span> Home</div></a>
+            <a href="#projects" id="projects">    <div class="col-md-3"><span class="glyphicon glyphicon-folder-open"></span> &nbsp;Projects</div></a>
+            <a href="http://alexzhang.io/jekyll-test/print-resume/"><div class="col-md-3"><span class="glyphicon glyphicon-file"></span> Resume </div></a> 
+            <a href="#contact" id="contact">         <div class="col-md-3"><span class="glyphicon glyphicon-envelope"></span>    Contact</div></a>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="col-md-12 main">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
 
-  <h1 class="page-heading">Posts</h1>
+            <div class="row" style="margin-bottom:60px;">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% if post.pogi %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+              <div class="col-md-4">
+                <img class="img-responsive img-circle" style="margin:auto;" src="me.jpeg" alt="">
+              </div>
+              <div class="col-md-6 col-md-offset-1 aboutme">
+              <h1>Hello World!</h1>
+              <h2>This site is a WIP, but feel free to keep looking.</h2>
+              
+              <h3>My name is Alex Zhang.</h3>
+              <p>I am an EECS major at UC Berkeley.
+              </p>
+              </div>
+            </div>
+            <div class="row link">
+              <div class="col-md-4 links">
+                <a href="https://github.com/Zhangerr" class="btn btn-primary btn-block btn-lg btn-danger">Github</a>
+                </div>
+              <div class="col-md-4 links">
+               <a href="http://stackoverflow.com/users/938831/zhanger" class="btn btn-primary btn-block btn-lg btn-warning">Stack Overflow</a>
+              </div>
+              <div class="col-md-4 links">
+                <a href="https://www.linkedin.com/pub/alex-zhang/95/420/378" class="btn btn-primary btn-block btn-lg btn-info">Linkedin</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 info">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+          <a href="" name="projects" id='projectsanchor'></a>
+          <h2 style="margin-bottom:30px">Projects</h2>
+              <ul class="post-list">
+                {% for post in site.posts %}  
+                  {% if post.project %}              
+                  <li style="border-left:3px solid #f0ad4e; padding-left:10px">                    
+                  <!-- <img src="{{ post.image }}" style="float:right;height:70px;margin:auto" class="img-responsive" alt=""> -->
+                    <h3 style="border-bottom:3px solid rgb(100,100,200);display:inline-block;">
+                      <a href="{{ post.purl }}">{{ post.title }}</a>
+                    </h3>
+                    
+                    {{ post.content }}
+                    <!-- <div style="clear:both"></div> -->
+                  </li>
+                 
+                {% endif %}
+                {% endfor %}
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 moreinfo">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+          <a href="" name="contact" id='contactanchor'></a>
+            <h2>Contact me</h2>
+            <form class="" role="form">
+              <div class="form-group">
+                <input type="email" class="form-control" id="inputEmail3" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" rows="3" id="subject" placeholder="Type your message here..."></textarea>
+              </div>
+             <a href="mailto:firstname.lastname@berkeley.edu" class="btn btn-primary btn-lg" id="bContact">Get in touch</a>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 footer">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <p>Built in Berkeley with <a href="http://getbootstrap.com/">Bootstrap</a></p>
+            <p>Hosted on <a href="https://pages.github.com/">Github Pages</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

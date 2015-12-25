@@ -1,0 +1,18 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.11/jquery.scrollTo.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#bContact").click(function(e) {
+            $(this).attr("href","mailto:firstname.lastname@berkeley.edu?subject="+encodeURIComponent($("#inputEmail3").val())+"&body="+encodeURIComponent($("#subject").val()))
+        })
+        $("#contact").click(function(e) {
+          e.preventDefault();
+          $.scrollTo('#contactanchor',800)
+        })
+        $("#projects").click(function(e) {
+          e.preventDefault();
+          $.scrollTo('#projectsanchor',800)
+        })
+    })
+</script>
