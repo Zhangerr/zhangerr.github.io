@@ -24,15 +24,15 @@ To obtain an internship for Summer 2016 in either mobile or web development (pre
 ------
 
 **University of California, Berkeley**  
-Class of 2018 – 3.38 Technical GPA  
+Class of 2018 – 3.53 GPA  
 B.S. in Electrical Engineering and Computer Science (EECS)
 
 *Relevant Coursework*
 
 *  CS61A: The Structure and Interpretation of Computer Programs – A+ (top 5% of the class) 
 *  CS61B: Data Structures and Advanced Programming – A (top 15% of the class)
-*  CS70 : Discrete Mathematics and Probability Theory – In progress
-*  CS61C: Machine Structures – In progress
+*  CS70 : Discrete Mathematics and Probability Theory – A
+*  CS61C: Machine Structures – A
 *  CS188: Artificial Intelligence – In progress
 *  CS170: Efficient Algorithms and Intractable Problems – In progress
 
