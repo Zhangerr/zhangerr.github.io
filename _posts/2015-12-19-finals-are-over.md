@@ -1,6 +1,8 @@
 ---
 layout: post
-pogi: true
+blog: true
+categories: jekyll update
 
 ---
-omg it's over
+
+i can now wilt in peace

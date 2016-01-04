@@ -2,6 +2,8 @@
 layout: resume-print
 title: Alex Zhang's Resume
 permalink: print-resume/
+hide: true
+
 ---
 
 {: .header .name}
