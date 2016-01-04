@@ -1,6 +1,6 @@
 ---
 layout: resume-print
-title: Printable Resume
+title: Alex Zhang's Resume
 permalink: print-resume/
 ---
 
@@ -29,12 +29,9 @@ B.S. in Electrical Engineering and Computer Science (EECS)
 
 *Relevant Coursework*
 
-*  CS61A: The Structure and Interpretation of Computer Programs – A+ (top 5% of the class) 
-*  CS61B: Data Structures and Advanced Programming – A (top 15% of the class)
-*  CS70 : Discrete Mathematics and Probability Theory – A
-*  CS61C: Machine Structures – A
-*  CS188: Artificial Intelligence – In progress
-*  CS170: Efficient Algorithms and Intractable Problems – In progress
+**Core**: Structure and Interpretation of Computer Programs (CS61A) – A+, Data Structures (CS61B) – A, Discrete Mathematics and Probability Theory (CS70) – A, Machine Structures (CS61C) – A    
+
+**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170)
 
 ##EMPLOYMENT
 
@@ -64,7 +61,8 @@ Software Testing Intern
 
 ------
 
-*  Experienced with Java, Python, Javascript, HTML, CSS, C, C#, git, Ruby on Rails, Swift/iOS, SQL, UNIX command line/terminal, MIPS, Latex
+*  Experienced with Java, Python, Javascript, HTML, CSS, C, git, UNIX command line/terminal, MIPS, Markdown
+*  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX
 
 ##PROJECTS
 
