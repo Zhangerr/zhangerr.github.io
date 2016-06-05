@@ -7,7 +7,7 @@ hide: true
 ---
 
 {: .header .name}
-#Alex Zhang
+# Alex Zhang
 
 {: .header}
 (949)-207-8108 \| <https://github.com/Zhangerr> \| <span style="unicode-bidi: bidi-override; direction: rtl;">ude.yelekreb@gnahz.xela</span>
@@ -15,18 +15,12 @@ hide: true
 
 ------
 
-##OBJECTIVE
-
-------
-
-To obtain an internship for Summer 2016 in either mobile or web development (preferably full stack) to further develop my problem solving skills in a challenging yet rewarding and collaborative environment.
-
-##EDUCATION
+## EDUCATION
 
 ------
 
 **University of California, Berkeley**  
-Class of 2018 – 3.53 GPA  
+Class of 2018 – 3.615 GPA  
 B.S. in Electrical Engineering and Computer Science (EECS)
 
 *Relevant Coursework*
@@ -35,14 +29,23 @@ B.S. in Electrical Engineering and Computer Science (EECS)
 
 **Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170)
 
-##EMPLOYMENT
+## EMPLOYMENT
 
 ------
 
 {: .date}
+Summer 2016
+
+### Twitter
+
+Product Safety Team
+
+* Integrated Javascript instrumentation into user remediation workflow to catch scripters
+
+{: .date}
 Summer 2015
 
-###Kinoma (Marvell)
+### Kinoma (Marvell)
 
 Software Engineering Intern
 
@@ -52,54 +55,54 @@ Software Engineering Intern
 {: .date}
 Summer 2014
 
-###Intel
+### Intel
 
 Software Testing Intern
 
 *  Developed the out of box experience for the Intel Edison, a credit card sized computer
 *  Compiled and improved documentation while collaborating with technical writers
 
-##SKILLS
+## SKILLS
 
 ------
 
 *  Experienced with Java, Python, Javascript, HTML, CSS, C, git, UNIX command line/terminal, MIPS, Markdown
-*  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX
+*  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX, Scala
 
-##PROJECTS
+## PROJECTS
 
 ------
 
-###CSM Scheduler
+### CSM Scheduler
 *  Web application in Ruby on Rails hosted on Heroku for matching up mentors to students
 *  Wrote the admin interface, emailing script, and designed the user interface with Bootstrap
 
-###Pulse
+### Pulse
 *  Rhythm game in C# and OpenGL that featured user created content and basic online gameplay
 
-###Gitlet
+### Gitlet
 *  Version control system in Java inspired by git; supports interactive rebasing and merging
 
-###Sailboat
+### Sailboat
 *  C++ web server with an embedded Lua virtual machine as the scripting language
 
-###TodoList
+### TodoList
 *  Real time synchronized to-do list using HTML, CSS, Javascript, and Firebase
 
-###Scheme Interpreter
+### Scheme Interpreter
 *  Fully-fledged Scheme interpreter in Python; supports tail calls and dynamic scoping
 
-###Snapbook
+### Snapbook
 *  iOS app that used Parse to allowed users to post images/text with a set duration (that could be extended by other users' likes) before expiring
 
-##ACTIVITIES
+## ACTIVITIES
 
 ------
 
 {: .date}
-Jan 2015 - Present
+Jan 2015 - May 2015
 
-###Computer Science Mentors
+### Computer Science Mentors
 
 Senior Mentor and Communications Executive
 
@@ -108,7 +111,7 @@ Senior Mentor and Communications Executive
 {: .date}
 Aug - Dec 2015
 
-###Reader
+### Reader
 CS61A (Structure and Interpretation of Computer Programs) 
 
 *  Assisted in the grading of exams and projects
