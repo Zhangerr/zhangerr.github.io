@@ -27,7 +27,7 @@ B.S. in Electrical Engineering and Computer Science (EECS)
 
 **Core**: Structure and Interpretation of Computer Programs (CS61A) – A+, Data Structures (CS61B) – A, Discrete Mathematics and Probability Theory (CS70) – A, Machine Structures (CS61C) – A    
 
-**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170)
+**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Databases (CS186)
 
 ## EMPLOYMENT
 
@@ -40,7 +40,8 @@ Summer 2016
 
 Product Safety Team
 
-* Integrated Javascript instrumentation into user remediation workflow to catch scripters
+* Integrated challenge into user remediation workflow to catch scripters with high precision
+* Actioned on over one thousand accounts per day by suspending spammers
 
 {: .date}
 Summer 2015
@@ -86,27 +87,24 @@ Software Testing Intern
 ### Sailboat
 *  C++ web server with an embedded Lua virtual machine as the scripting language
 
-### TodoList
-*  Real time synchronized to-do list using HTML, CSS, Javascript, and Firebase
+### Kidney Exchange Cycle Detection
+*  NP-hard problem solver that used a variety of greedy algorithms and heuristics to approximate solutions
 
 ### Scheme Interpreter
 *  Fully-fledged Scheme interpreter in Python; supports tail calls and dynamic scoping
 
 ### Snapbook
-*  iOS app that used Parse to allowed users to post images/text with a set duration (that could be extended by other users' likes) before expiring
+*  iOS app that used Parse to allowed users to post images/text with an extendable duration before expiring
 
 ## ACTIVITIES
 
 ------
 
 {: .date}
-Jan 2015 - May 2015
+Jan 2015 - May 2016
 
-### Computer Science Mentors
-
-Senior Mentor and Communications Executive
-
-*  Authored worksheets and conducted one on five mentoring sessions with students weekly
+### Senior Mentor and Technology Advisor
+Computer Science Mentors
 
 {: .date}
 Aug - Dec 2015
@@ -114,6 +112,8 @@ Aug - Dec 2015
 ### Reader
 CS61A (Structure and Interpretation of Computer Programs) 
 
-*  Assisted in the grading of exams and projects
-*  Held additional review sessions and office hours for students 
+{: .date}
+Aug - Dec 2016
 
+### Undergraduate Student Instructor
+CS61C (Machine Structures and Computer Architecture)
