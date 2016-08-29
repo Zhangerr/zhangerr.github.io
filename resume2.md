@@ -27,7 +27,7 @@ B.S. in Electrical Engineering and Computer Science (EECS)
 
 **Core**: Structure and Interpretation of Computer Programs (CS61A) – A+, Data Structures (CS61B) – A, Discrete Mathematics and Probability Theory (CS70) – A, Machine Structures (CS61C) – A    
 
-**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Databases (CS186)
+**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Operating Systems (CS162)
 
 ## EMPLOYMENT
 
