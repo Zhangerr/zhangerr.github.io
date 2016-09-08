@@ -40,8 +40,8 @@ Summer 2016
 
 Product Safety Team
 
-* Integrated challenge into user remediation workflow to catch scripters with high precision
-* Actioned on over one thousand accounts per day by suspending spammers
+* Integrated a challenge into the   user remediation workflow on a Scala backend to catch scripters
+* Used Scalding (Hadoop) data analysis to suspend over 1000 accounts/day with high precision
 
 {: .date}
 Summer 2015
@@ -67,8 +67,8 @@ Software Testing Intern
 
 ------
 
-*  Experienced with Java, Python, Javascript, HTML, CSS, C, git, UNIX command line/terminal, MIPS, Markdown
-*  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX, Scala
+*  Experienced with Java, Python, JavaScript, HTML, CSS, C, git, UNIX command line, MIPS, Markdown
+*  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX, Scala, pants, Thrift
 
 ## PROJECTS
 
@@ -85,7 +85,7 @@ Software Testing Intern
 *  Version control system in Java inspired by git; supports interactive rebasing and merging
 
 ### Sailboat
-*  C++ web server with an embedded Lua virtual machine as the scripting language
+*  C++ web server from scratch with an embedded Lua virtual machine as the scripting language
 
 ### Kidney Exchange Cycle Detection
 *  NP-hard problem solver that used a variety of greedy algorithms and heuristics to approximate solutions
