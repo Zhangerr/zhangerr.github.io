@@ -20,14 +20,14 @@ hide: true
 ------
 
 **University of California, Berkeley**  
-Class of 2018 – 3.615 GPA  
+Class of 2018 – 3.687 GPA  
 B.S. in Electrical Engineering and Computer Science (EECS)
 
 *Relevant Coursework*
 
 **Core**: Structure and Interpretation of Computer Programs (CS61A) – A+, Data Structures (CS61B) – A, Discrete Mathematics and Probability Theory (CS70) – A, Machine Structures (CS61C) – A    
 
-**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Operating Systems (CS162)
+**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Operating Systems (CS162), Introduction to Database Systems (CS186)
 
 ## EMPLOYMENT
 
@@ -113,7 +113,7 @@ Aug - Dec 2015
 CS61A (Structure and Interpretation of Computer Programs) 
 
 {: .date}
-Aug - Dec 2016
+Aug 2016 - May 2017
 
 ### Undergraduate Student Instructor
 CS61C (Machine Structures and Computer Architecture)
