@@ -20,18 +20,28 @@ hide: true
 ------
 
 **University of California, Berkeley**  
-Class of 2018 – 3.687 GPA  
+Class of 2018 – 3.722 GPA  
 B.S. in Electrical Engineering and Computer Science (EECS)
 
-*Relevant Coursework*
+**Relevant Coursework**
 
 **Core**: Structure and Interpretation of Computer Programs (CS61A) – A+, Data Structures (CS61B) – A, Discrete Mathematics and Probability Theory (CS70) – A, Machine Structures (CS61C) – A    
 
-**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Operating Systems (CS162), Introduction to Database Systems (CS186)
+**Upper Division**: Artificial Intelligence (CS188), Efficient Algorithms and Intractable Problems (CS170), Computer Security (CS161), Operating Systems (CS162), Introduction to Database Systems (CS186), Programming Languages and Compilers (CS164)
 
 ## EMPLOYMENT
 
 ------
+
+{: .date}
+Summer 2017
+
+### Facebook
+
+Messenger Monetization Team
+
+* Built and launched a new feature for advertisers that allowed increased customization on ads
+* Collaborated cross-functionally with other teams to measure the effect on core metrics
 
 {: .date}
 Summer 2016
@@ -40,7 +50,7 @@ Summer 2016
 
 Product Safety Team
 
-* Integrated a challenge into the   user remediation workflow on a Scala backend to catch scripters
+* Integrated a challenge into the user remediation workflow on a Scala backend to catch scripters
 * Used Scalding (Hadoop) data analysis to suspend over 1000 accounts/day with high precision
 
 {: .date}
@@ -67,7 +77,7 @@ Software Testing Intern
 
 ------
 
-*  Experienced with Java, Python, JavaScript, HTML, CSS, C, git, UNIX command line, MIPS, Markdown
+*  Experienced with Java, Python, JavaScript, HTML, CSS, C, git, command line, MIPS, Markdown, React, Flux
 *  Proficient with C#, Ruby on Rails, PHP, Swift/iOS, SQL, LaTeX, Scala, pants, Thrift
 
 ## PROJECTS
@@ -81,17 +91,11 @@ Software Testing Intern
 ### Pulse
 *  Rhythm game in C# and OpenGL that featured user created content and basic online gameplay
 
-### Gitlet
-*  Version control system in Java inspired by git; supports interactive rebasing and merging
-
 ### Sailboat
 *  C++ web server from scratch with an embedded Lua virtual machine as the scripting language
 
 ### Kidney Exchange Cycle Detection
 *  NP-hard problem solver that used a variety of greedy algorithms and heuristics to approximate solutions
-
-### Scheme Interpreter
-*  Fully-fledged Scheme interpreter in Python; supports tail calls and dynamic scoping
 
 ### Snapbook
 *  iOS app that used Parse to allowed users to post images/text with an extendable duration before expiring
@@ -106,14 +110,14 @@ Jan 2015 - May 2016
 ### Senior Mentor and Technology Advisor
 Computer Science Mentors
 
-{: .date}
-Aug - Dec 2015
-
-### Reader
-CS61A (Structure and Interpretation of Computer Programs) 
+### Undergraduate Student Instructor
 
 {: .date}
 Aug 2016 - May 2017
 
-### Undergraduate Student Instructor
 CS61C (Machine Structures and Computer Architecture)
+
+{: .date}
+Aug 2017 - Dec 2017
+
+CS161 (Computer Security)
