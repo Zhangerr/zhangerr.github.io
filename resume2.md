@@ -41,7 +41,7 @@ Summer 2017
 Messenger Monetization Team
 
 * Built and launched a new feature for advertisers that allowed increased customization on ads
-* Collaborated cross-functionally with other teams to measure the effect on core metrics
+* Boosted revenue for Messenger family ad products by 5%
 
 {: .date}
 Summer 2016
