@@ -20,7 +20,7 @@ hide: true
 ------
 
 **University of California, Berkeley**  
-Class of 2018 – 3.722 GPA  
+Class of 2018 – 3.764 GPA  
 B.S. in Electrical Engineering and Computer Science (EECS)
 
 **Relevant Coursework**
@@ -118,6 +118,6 @@ Aug 2016 - May 2017
 CS61C (Machine Structures and Computer Architecture)
 
 {: .date}
-Aug 2017 - Dec 2017
+Aug 2017 - May 2018
 
 CS161 (Computer Security)
