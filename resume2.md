@@ -10,7 +10,7 @@ hide: true
 # Alex Zhang
 
 {: .header}
-(949)-207-8108 \| <https://github.com/Zhangerr> \| <span style="unicode-bidi: bidi-override; direction: rtl;">ude.yelekreb@gnahz.xela</span>
+<https://github.com/Zhangerr> \| <span style="unicode-bidi: bidi-override; direction: rtl;">ude.yelekreb@gnahz.xela</span>
 
 
 ------
